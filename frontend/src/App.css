@@ -1,0 +1,24 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.appenditems{
+  position: relative;
+  width:50vw;
+  height:40vh;
+  left:25vw;
+  top:5vh;
+  overflow-y: scroll;
+}
+
+.input{
+  position: relative;
+  width:20vw;
+  height:3vh;
+  top:10vh;
+  text-align: center;
+  display: block;
+  left:40vw;
+  margin-bottom: 2vh;
+}
